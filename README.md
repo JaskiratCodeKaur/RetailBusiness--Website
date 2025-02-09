@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Livewire-4E56A6?logo=livewire&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
 </div>
 
