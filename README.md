@@ -48,3 +48,13 @@ npm install && npm run dev
 # Configure environment
 cp .env.example .env
 php artisan key:generate
+
+```
+<details> <summary>⚙️ Database Configuration</summary>
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=retail_db
+DB_USERNAME=root
+DB_PASSWORD=
+</details>
