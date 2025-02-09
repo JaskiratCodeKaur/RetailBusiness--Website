@@ -50,11 +50,12 @@ cp .env.example .env
 php artisan key:generate
 
 ```
-<details> <summary>⚙️ Database Configuration</summary>
-DB_CONNECTION=mysql<br>
-DB_HOST=127.0.0.1<br>
-DB_PORT=3306<br>
-DB_DATABASE=your_database_name<br>
-DB_USERNAME=your_database_username<br>
-DB_PASSWORD=your_database_password<br>
-</details>
+## ⚙️ Database Configuration
+```bash
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=your_database_name
+DB_USERNAME=your_database_username
+DB_PASSWORD=your_database_password
+```
