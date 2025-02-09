@@ -38,7 +38,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/retail-platform.git
+git clone https://github.com/JaskiratCodeKaur/RetailBusiness--Website.git
 cd retail-platform
 
 # Install dependencies
