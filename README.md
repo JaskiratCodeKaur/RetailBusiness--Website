@@ -54,7 +54,7 @@ php artisan key:generate
 DB_CONNECTION=mysql<br>
 DB_HOST=127.0.0.1<br>
 DB_PORT=3306<br>
-DB_DATABASE=retail_db<br>
-DB_USERNAME=root<br>
-DB_PASSWORD=<br>
+DB_DATABASE=your_database_name<br>
+DB_USERNAME=your_database_username<br>
+DB_PASSWORD=your_database_password<br>
 </details>
